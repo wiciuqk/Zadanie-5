@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{22D3756E-8ED0-467C-8DEB-242BF6C96236}"
 	ProjectSection(SolutionItems) = preProject
-		..\zadanie 5.pdf = ..\zadanie 5.pdf
+		zadanie 5.pdf = zadanie 5.pdf
 	EndProjectSection
 EndProject
 Global
